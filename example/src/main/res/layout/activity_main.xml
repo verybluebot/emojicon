@@ -38,6 +38,7 @@
         android:id="@+id/txtEmojicon"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        emojicon:emojiconSize="60sp"
         android:text="@string/i_love_emojicon"
         emojicon:emojiconAlignment="baseline" />
 
